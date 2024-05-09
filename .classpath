@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="POO2_U3_S6_ArquitecturaTrabajo-main/src"/>
+	<classpathentry kind="lib" path="POO2_U3_S6_ArquitecturaTrabajo-main/libreriaJavaFX/javafx.base.jar"/>
+	<classpathentry kind="lib" path="POO2_U3_S6_ArquitecturaTrabajo-main/libreriaJavaFX/javafx.controls.jar"/>
+	<classpathentry kind="lib" path="POO2_U3_S6_ArquitecturaTrabajo-main/libreriaJavaFX/javafx.fxml.jar"/>
+	<classpathentry kind="lib" path="POO2_U3_S6_ArquitecturaTrabajo-main/libreriaJavaFX/javafx.graphics.jar"/>
+	<classpathentry kind="lib" path="POO2_U3_S6_ArquitecturaTrabajo-main/libreriaJavaFX/javafx.media.jar"/>
+	<classpathentry kind="lib" path="POO2_U3_S6_ArquitecturaTrabajo-main/libreriaJavaFX/javafx.swing.jar"/>
+	<classpathentry kind="lib" path="POO2_U3_S6_ArquitecturaTrabajo-main/libreriaJavaFX/javafx.web.jar"/>
+	<classpathentry kind="lib" path="POO2_U3_S6_ArquitecturaTrabajo-main/libreriaJavaFX/javafx-swt.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
